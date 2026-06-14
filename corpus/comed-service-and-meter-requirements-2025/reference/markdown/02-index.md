@@ -1,0 +1,54 @@
+# INDEX
+
+## SERVICE AND METER REQUIREMENTS
+
+- SERVICE, GENERALLY
+  - General requirements — C7800
+  - Phase arrangement — C7802
+- SERVICE, OVERHEAD
+  - Single-phase, 400 A and below — C7820
+  - Row house service — C7825
+  - Three-phase, 200 A and below — C7830
+  - Three-phase, over 200 A — C7840
+  - Box-type service head — C7850
+  - Recessed service head — C7852
+  - Service to meter pole — C7860
+  - Service to trailer park pole — C7870
+  - Service extension on Company pole — C7815
+  - CATV/communications supplies — C7977
+  - Street light syst's and traffic sig'ls — C7973
+- SERVICE, UNDERGROUND
+  - Cable pole — C7951
+  - Connection to overhead ESS — C7952
+  - CATV/communications supplies — C7978
+  - Street light syst's and traffic sig'ls — C7974
+- SERVICE, TEMPORARY
+  - Outdoor, to pole — C7885
+  - Underground — C7890
+- LIGHTING
+  - Customer-owned outdoor light — C7960
+- METERING, GENERALLY
+  - General requirements — C9110
+  - General information — C9111
+  - High-rise Comm requirements — C9114
+- METERING, 1-PHASE, SELF-CONTAINED
+  - Overhead, to 200 A — C9120
+  - Overhead, 320 A — C9121
+  - Overhead, 200 A, multi-position — C9122
+  - Underground, to 200 A — C9125
+  - Underground, 320 A — C9126
+  - Underground, 200 A, multi-position — C9127
+- METERING, 3-PHASE, SELF-CONTAINED
+  - Overhead, to 200 A — C9130
+  - Overhead, 200 A, multi-position — C9132
+  - Underground, to 200 A — C9135
+  - Underground, 200 A, multi-position — C9137
+  - Multi-position, 200 A, ovhd./undg — C9134
+- METERING, TRANSFORMER RATED
+  - (480 V and below)
+    - Current transformer compartment — C9140
+    - Modular CT compartment — C9141
+    - Meter, 1-phase — C9145
+    - Meter, 3-phase — C9150
+  - (Above 480 V)
+    - SCADA metering — C9162

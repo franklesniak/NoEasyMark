@@ -104,3 +104,17 @@ testdata/**                   text eol=lf
 *.woff                        binary
 *.woff2                       binary
 *.eot                         binary
+
+# LFS-managed binary types: for large files that are tracked with Git LFS,
+# the `filter=lfs diff=lfs merge=lfs` attributes ensure Git LFS handles
+# them correctly, while `-text` prevents Git from applying line-ending
+# conversions that would corrupt the binary content.
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
